@@ -1,0 +1,20 @@
+#root{
+  width: 100vw;
+  height: 100vh;
+  direction: rtl;
+  overflow: hidden;
+}
+
+main{
+  overflow: auto;
+  width: fit-content;
+}
+
+.form-floating > label{
+  right: 0;
+  text-align: start;
+}
+
+a{
+  text-decoration: none;
+}
