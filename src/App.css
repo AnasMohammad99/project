@@ -107,3 +107,25 @@ main {
   padding-left: 20px;
   border-bottom: #fff 0.5px solid;
 }
+.header{
+  display: flex;
+  justify-content: center;
+}
+.searchField{
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  width: 70%;
+  color: white;
+
+}
+.headContainer{
+  background-color: lightgray;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5vh;
+  width: 50vw;
+  border-radius: 100px;
+  padding: 0 5vw;
+  
+}

@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 import { useState } from "react";
 
 import { AnimatePresence, motion } from "framer-motion";
-import SidebarMenu from "./SidebarMenu";
+// import SidebarMenu from "./SidebarMenu";
 import { AssignmentInd, Checkroom, Home, Inventory, Menu, Paid, Sell } from "@mui/icons-material";
 const routes = [
   {

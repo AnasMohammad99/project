@@ -5,7 +5,7 @@ import AddIcon from "@mui/icons-material/Add";
 import { links } from "../components/card/data";
 import { IconButton } from "@mui/material";
 import { Button, Col, Form, Modal, Row } from "react-bootstrap";
-import ImageUploading from "react-images-uploading";
+// import ImageUploading from "react-images-uploading";
 import UploadImage from "../components/uploadImage/UploadImage";
 
 function MyVerticallyCenteredModal(props) {
